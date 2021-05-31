@@ -48,6 +48,7 @@ namespace com.atguigu.fate.lin {
             this.Controls.Add(this.Lin);
             this.Name = "TestForm";
             this.Text = "LinForm";
+            this.Load += new System.EventHandler(this.TestForm_Load);
             this.ResumeLayout(false);
 
         }

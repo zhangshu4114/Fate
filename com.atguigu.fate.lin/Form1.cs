@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace com.atguigu.fate.lin {
+
     public partial class TestForm : Form {
         public TestForm() {
             InitializeComponent();
@@ -66,7 +67,7 @@ namespace com.atguigu.fate.lin {
         }
 
         /**
-         * 
+         * 13853067128
          */
         public List<Student> students() {
             List<Student> list = new List<Student>();
@@ -87,6 +88,10 @@ namespace com.atguigu.fate.lin {
             list.Add(new StudentClass() { id = 2, name = "二班" });
             list.Add(new StudentClass() { id = 3, name = "三班" });
             return list;
+        }
+
+        private void TestForm_Load(object sender, EventArgs e) {
+
         }
     }
 }
