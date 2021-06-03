@@ -2461,6 +2461,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button104
             // 
             this.button104.BackColor = System.Drawing.Color.Lime;
+            this.button104.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button104.Location = new System.Drawing.Point(712, 139);
             this.button104.Name = "button104";
             this.button104.Size = new System.Drawing.Size(25, 40);
@@ -2480,6 +2481,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button106
             // 
             this.button106.BackColor = System.Drawing.Color.Lime;
+            this.button106.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button106.Location = new System.Drawing.Point(681, 139);
             this.button106.Name = "button106";
             this.button106.Size = new System.Drawing.Size(25, 40);
@@ -2489,6 +2491,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button101
             // 
             this.button101.BackColor = System.Drawing.Color.Lime;
+            this.button101.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button101.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button101.Location = new System.Drawing.Point(610, 139);
             this.button101.Name = "button101";
             this.button101.Size = new System.Drawing.Size(25, 40);
@@ -2498,6 +2502,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button102
             // 
             this.button102.BackColor = System.Drawing.Color.Lime;
+            this.button102.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button102.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button102.Location = new System.Drawing.Point(641, 139);
             this.button102.Name = "button102";
             this.button102.Size = new System.Drawing.Size(25, 40);
@@ -2508,6 +2514,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button103
             // 
             this.button103.BackColor = System.Drawing.Color.Lime;
+            this.button103.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button103.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button103.Location = new System.Drawing.Point(579, 139);
             this.button103.Name = "button103";
             this.button103.Size = new System.Drawing.Size(25, 40);
@@ -2517,6 +2525,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button98
             // 
             this.button98.BackColor = System.Drawing.Color.Lime;
+            this.button98.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button98.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button98.Location = new System.Drawing.Point(516, 139);
             this.button98.Name = "button98";
             this.button98.Size = new System.Drawing.Size(25, 40);
@@ -2526,6 +2536,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button99
             // 
             this.button99.BackColor = System.Drawing.Color.Lime;
+            this.button99.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button99.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button99.Location = new System.Drawing.Point(547, 139);
             this.button99.Name = "button99";
             this.button99.Size = new System.Drawing.Size(25, 40);
@@ -2536,6 +2548,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button100
             // 
             this.button100.BackColor = System.Drawing.Color.Lime;
+            this.button100.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button100.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button100.Location = new System.Drawing.Point(485, 139);
             this.button100.Name = "button100";
             this.button100.Size = new System.Drawing.Size(25, 40);
@@ -2545,6 +2559,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button94
             // 
             this.button94.BackColor = System.Drawing.Color.Lime;
+            this.button94.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button94.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button94.Location = new System.Drawing.Point(408, 139);
             this.button94.Name = "button94";
             this.button94.Size = new System.Drawing.Size(25, 40);
@@ -2554,6 +2570,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button96
             // 
             this.button96.BackColor = System.Drawing.Color.Lime;
+            this.button96.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button96.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button96.Location = new System.Drawing.Point(439, 139);
             this.button96.Name = "button96";
             this.button96.Size = new System.Drawing.Size(25, 40);
@@ -2564,6 +2582,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button97
             // 
             this.button97.BackColor = System.Drawing.Color.Lime;
+            this.button97.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button97.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button97.Location = new System.Drawing.Point(377, 139);
             this.button97.Name = "button97";
             this.button97.Size = new System.Drawing.Size(25, 40);
@@ -2573,6 +2593,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button93
             // 
             this.button93.BackColor = System.Drawing.Color.Lime;
+            this.button93.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button93.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button93.Location = new System.Drawing.Point(351, 139);
             this.button93.Name = "button93";
             this.button93.Size = new System.Drawing.Size(25, 40);
@@ -2583,6 +2605,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button95
             // 
             this.button95.BackColor = System.Drawing.Color.Lime;
+            this.button95.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button95.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button95.Location = new System.Drawing.Point(324, 139);
             this.button95.Name = "button95";
             this.button95.Size = new System.Drawing.Size(25, 40);
@@ -2592,6 +2616,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button90
             // 
             this.button90.BackColor = System.Drawing.Color.Lime;
+            this.button90.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button90.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button90.Location = new System.Drawing.Point(253, 139);
             this.button90.Name = "button90";
             this.button90.Size = new System.Drawing.Size(25, 40);
@@ -2601,6 +2627,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button91
             // 
             this.button91.BackColor = System.Drawing.Color.Lime;
+            this.button91.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button91.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button91.Location = new System.Drawing.Point(284, 139);
             this.button91.Name = "button91";
             this.button91.Size = new System.Drawing.Size(25, 40);
@@ -2611,6 +2639,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button92
             // 
             this.button92.BackColor = System.Drawing.Color.Lime;
+            this.button92.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button92.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button92.Location = new System.Drawing.Point(222, 139);
             this.button92.Name = "button92";
             this.button92.Size = new System.Drawing.Size(25, 40);
@@ -2620,6 +2650,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button87
             // 
             this.button87.BackColor = System.Drawing.Color.Lime;
+            this.button87.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button87.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button87.Location = new System.Drawing.Point(149, 139);
             this.button87.Name = "button87";
             this.button87.Size = new System.Drawing.Size(25, 40);
@@ -2629,6 +2661,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button88
             // 
             this.button88.BackColor = System.Drawing.Color.Lime;
+            this.button88.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button88.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button88.Location = new System.Drawing.Point(180, 139);
             this.button88.Name = "button88";
             this.button88.Size = new System.Drawing.Size(25, 40);
@@ -2639,6 +2673,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button89
             // 
             this.button89.BackColor = System.Drawing.Color.Lime;
+            this.button89.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button89.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button89.Location = new System.Drawing.Point(118, 139);
             this.button89.Name = "button89";
             this.button89.Size = new System.Drawing.Size(25, 40);
@@ -2648,6 +2684,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button73
             // 
             this.button73.BackColor = System.Drawing.Color.Lime;
+            this.button73.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button73.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button73.Location = new System.Drawing.Point(51, 139);
             this.button73.Name = "button73";
             this.button73.Size = new System.Drawing.Size(25, 40);
@@ -2657,6 +2695,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button74
             // 
             this.button74.BackColor = System.Drawing.Color.Lime;
+            this.button74.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button74.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button74.Location = new System.Drawing.Point(82, 139);
             this.button74.Name = "button74";
             this.button74.Size = new System.Drawing.Size(25, 40);
@@ -2667,6 +2707,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button76
             // 
             this.button76.BackColor = System.Drawing.Color.Lime;
+            this.button76.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button76.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button76.Location = new System.Drawing.Point(20, 139);
             this.button76.Name = "button76";
             this.button76.Size = new System.Drawing.Size(25, 40);
@@ -2676,6 +2718,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button71
             // 
             this.button71.BackColor = System.Drawing.Color.Lime;
+            this.button71.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button71.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button71.Location = new System.Drawing.Point(1180, 139);
             this.button71.Name = "button71";
             this.button71.Size = new System.Drawing.Size(25, 40);
@@ -2685,6 +2729,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button72
             // 
             this.button72.BackColor = System.Drawing.Color.Lime;
+            this.button72.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button72.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button72.Location = new System.Drawing.Point(1211, 139);
             this.button72.Name = "button72";
             this.button72.Size = new System.Drawing.Size(25, 40);
@@ -2695,6 +2741,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button75
             // 
             this.button75.BackColor = System.Drawing.Color.Lime;
+            this.button75.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button75.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button75.Location = new System.Drawing.Point(1149, 139);
             this.button75.Name = "button75";
             this.button75.Size = new System.Drawing.Size(25, 40);
@@ -2704,6 +2752,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button78
             // 
             this.button78.BackColor = System.Drawing.Color.Lime;
+            this.button78.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button78.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button78.Location = new System.Drawing.Point(1180, 51);
             this.button78.Name = "button78";
             this.button78.Size = new System.Drawing.Size(25, 40);
@@ -2713,6 +2763,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button79
             // 
             this.button79.BackColor = System.Drawing.Color.Lime;
+            this.button79.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button79.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button79.Location = new System.Drawing.Point(1211, 51);
             this.button79.Name = "button79";
             this.button79.Size = new System.Drawing.Size(25, 40);
@@ -2722,6 +2774,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button83
             // 
             this.button83.BackColor = System.Drawing.Color.Lime;
+            this.button83.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button83.Location = new System.Drawing.Point(1211, 5);
             this.button83.Name = "button83";
             this.button83.Size = new System.Drawing.Size(25, 40);
@@ -2731,6 +2784,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button84
             // 
             this.button84.BackColor = System.Drawing.Color.Lime;
+            this.button84.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button84.Location = new System.Drawing.Point(1149, 5);
             this.button84.Name = "button84";
             this.button84.Size = new System.Drawing.Size(25, 40);
@@ -2740,6 +2794,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button85
             // 
             this.button85.BackColor = System.Drawing.Color.Lime;
+            this.button85.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button85.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button85.Location = new System.Drawing.Point(1149, 51);
             this.button85.Name = "button85";
             this.button85.Size = new System.Drawing.Size(25, 40);
@@ -2750,6 +2806,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button86
             // 
             this.button86.BackColor = System.Drawing.Color.Lime;
+            this.button86.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button86.Location = new System.Drawing.Point(1180, 5);
             this.button86.Name = "button86";
             this.button86.Size = new System.Drawing.Size(25, 40);
@@ -2759,6 +2816,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button77
             // 
             this.button77.BackColor = System.Drawing.Color.Lime;
+            this.button77.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button77.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button77.Location = new System.Drawing.Point(1106, 51);
             this.button77.Name = "button77";
             this.button77.Size = new System.Drawing.Size(25, 40);
@@ -2768,6 +2827,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button80
             // 
             this.button80.BackColor = System.Drawing.Color.Lime;
+            this.button80.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button80.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button80.Location = new System.Drawing.Point(1075, 5);
             this.button80.Name = "button80";
             this.button80.Size = new System.Drawing.Size(25, 40);
@@ -2777,6 +2838,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button81
             // 
             this.button81.BackColor = System.Drawing.Color.Lime;
+            this.button81.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button81.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button81.Location = new System.Drawing.Point(1075, 51);
             this.button81.Name = "button81";
             this.button81.Size = new System.Drawing.Size(25, 40);
@@ -2787,6 +2850,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button82
             // 
             this.button82.BackColor = System.Drawing.Color.Lime;
+            this.button82.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button82.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button82.Location = new System.Drawing.Point(1106, 5);
             this.button82.Name = "button82";
             this.button82.Size = new System.Drawing.Size(25, 40);
@@ -2796,6 +2861,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button62
             // 
             this.button62.BackColor = System.Drawing.Color.Lime;
+            this.button62.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button62.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button62.Location = new System.Drawing.Point(1003, 51);
             this.button62.Name = "button62";
             this.button62.Size = new System.Drawing.Size(25, 40);
@@ -2805,6 +2872,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button63
             // 
             this.button63.BackColor = System.Drawing.Color.Lime;
+            this.button63.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button63.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button63.Location = new System.Drawing.Point(1034, 51);
             this.button63.Name = "button63";
             this.button63.Size = new System.Drawing.Size(25, 40);
@@ -2814,6 +2883,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button67
             // 
             this.button67.BackColor = System.Drawing.Color.Lime;
+            this.button67.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button67.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button67.Location = new System.Drawing.Point(1034, 5);
             this.button67.Name = "button67";
             this.button67.Size = new System.Drawing.Size(25, 40);
@@ -2823,6 +2894,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button68
             // 
             this.button68.BackColor = System.Drawing.Color.Lime;
+            this.button68.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button68.Location = new System.Drawing.Point(972, 5);
             this.button68.Name = "button68";
             this.button68.Size = new System.Drawing.Size(25, 40);
@@ -2832,6 +2904,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button69
             // 
             this.button69.BackColor = System.Drawing.Color.Lime;
+            this.button69.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button69.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button69.Location = new System.Drawing.Point(972, 51);
             this.button69.Name = "button69";
             this.button69.Size = new System.Drawing.Size(25, 40);
@@ -2842,6 +2916,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button70
             // 
             this.button70.BackColor = System.Drawing.Color.Lime;
+            this.button70.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button70.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button70.Location = new System.Drawing.Point(1003, 5);
             this.button70.Name = "button70";
             this.button70.Size = new System.Drawing.Size(25, 40);
@@ -2851,6 +2927,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button61
             // 
             this.button61.BackColor = System.Drawing.Color.Lime;
+            this.button61.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button61.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button61.Location = new System.Drawing.Point(941, 51);
             this.button61.Name = "button61";
             this.button61.Size = new System.Drawing.Size(25, 40);
@@ -2860,6 +2938,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button64
             // 
             this.button64.BackColor = System.Drawing.Color.Lime;
+            this.button64.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button64.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button64.Location = new System.Drawing.Point(910, 5);
             this.button64.Name = "button64";
             this.button64.Size = new System.Drawing.Size(25, 40);
@@ -2869,6 +2949,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button65
             // 
             this.button65.BackColor = System.Drawing.Color.Lime;
+            this.button65.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button65.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button65.Location = new System.Drawing.Point(910, 51);
             this.button65.Name = "button65";
             this.button65.Size = new System.Drawing.Size(25, 40);
@@ -2879,6 +2961,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button66
             // 
             this.button66.BackColor = System.Drawing.Color.Lime;
+            this.button66.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button66.Location = new System.Drawing.Point(941, 5);
             this.button66.Name = "button66";
             this.button66.Size = new System.Drawing.Size(25, 40);
@@ -2888,6 +2971,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button55
             // 
             this.button55.BackColor = System.Drawing.Color.Lime;
+            this.button55.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button55.Location = new System.Drawing.Point(516, 51);
             this.button55.Name = "button55";
             this.button55.Size = new System.Drawing.Size(25, 40);
@@ -2897,6 +2982,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button56
             // 
             this.button56.BackColor = System.Drawing.Color.Lime;
+            this.button56.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button56.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button56.Location = new System.Drawing.Point(547, 51);
             this.button56.Name = "button56";
             this.button56.Size = new System.Drawing.Size(25, 40);
@@ -2906,6 +2993,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button57
             // 
             this.button57.BackColor = System.Drawing.Color.Lime;
+            this.button57.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button57.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button57.Location = new System.Drawing.Point(547, 5);
             this.button57.Name = "button57";
             this.button57.Size = new System.Drawing.Size(25, 40);
@@ -2915,6 +3004,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button58
             // 
             this.button58.BackColor = System.Drawing.Color.Lime;
+            this.button58.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button58.Location = new System.Drawing.Point(485, 5);
             this.button58.Name = "button58";
             this.button58.Size = new System.Drawing.Size(25, 40);
@@ -2924,6 +3014,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button59
             // 
             this.button59.BackColor = System.Drawing.Color.Lime;
+            this.button59.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button59.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button59.Location = new System.Drawing.Point(485, 51);
             this.button59.Name = "button59";
             this.button59.Size = new System.Drawing.Size(25, 40);
@@ -2934,6 +3026,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button60
             // 
             this.button60.BackColor = System.Drawing.Color.Lime;
+            this.button60.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button60.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button60.Location = new System.Drawing.Point(516, 5);
             this.button60.Name = "button60";
             this.button60.Size = new System.Drawing.Size(25, 40);
@@ -2943,6 +3037,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button12
             // 
             this.button12.BackColor = System.Drawing.Color.Lime;
+            this.button12.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button12.Location = new System.Drawing.Point(408, 51);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(25, 40);
@@ -2952,6 +3048,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button24
             // 
             this.button24.BackColor = System.Drawing.Color.Lime;
+            this.button24.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button24.Location = new System.Drawing.Point(439, 51);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(25, 40);
@@ -2961,6 +3059,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button25
             // 
             this.button25.BackColor = System.Drawing.Color.Lime;
+            this.button25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button25.Location = new System.Drawing.Point(439, 5);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(25, 40);
@@ -2970,6 +3069,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button26
             // 
             this.button26.BackColor = System.Drawing.Color.Lime;
+            this.button26.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button26.Location = new System.Drawing.Point(377, 5);
             this.button26.Name = "button26";
             this.button26.Size = new System.Drawing.Size(25, 40);
@@ -2979,6 +3080,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button53
             // 
             this.button53.BackColor = System.Drawing.Color.Lime;
+            this.button53.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button53.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button53.Location = new System.Drawing.Point(377, 51);
             this.button53.Name = "button53";
             this.button53.Size = new System.Drawing.Size(25, 40);
@@ -2989,6 +3092,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button54
             // 
             this.button54.BackColor = System.Drawing.Color.Lime;
+            this.button54.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button54.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button54.Location = new System.Drawing.Point(408, 5);
             this.button54.Name = "button54";
             this.button54.Size = new System.Drawing.Size(25, 40);
@@ -2998,6 +3103,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button18
             // 
             this.button18.BackColor = System.Drawing.Color.Lime;
+            this.button18.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button18.Location = new System.Drawing.Point(253, 51);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(25, 40);
@@ -3007,6 +3114,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button19
             // 
             this.button19.BackColor = System.Drawing.Color.Lime;
+            this.button19.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button19.Location = new System.Drawing.Point(284, 51);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(25, 40);
@@ -3016,6 +3125,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button20
             // 
             this.button20.BackColor = System.Drawing.Color.Lime;
+            this.button20.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button20.Location = new System.Drawing.Point(284, 5);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(25, 40);
@@ -3025,6 +3136,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button21
             // 
             this.button21.BackColor = System.Drawing.Color.Lime;
+            this.button21.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button21.Location = new System.Drawing.Point(222, 5);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(25, 40);
@@ -3034,6 +3147,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button22
             // 
             this.button22.BackColor = System.Drawing.Color.Lime;
+            this.button22.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button22.Location = new System.Drawing.Point(222, 51);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(25, 40);
@@ -3044,6 +3159,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button23
             // 
             this.button23.BackColor = System.Drawing.Color.Lime;
+            this.button23.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button23.Location = new System.Drawing.Point(253, 5);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(25, 40);
@@ -3053,6 +3170,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button17
             // 
             this.button17.BackColor = System.Drawing.Color.Lime;
+            this.button17.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button17.Location = new System.Drawing.Point(149, 51);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(25, 40);
@@ -3062,6 +3181,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button16
             // 
             this.button16.BackColor = System.Drawing.Color.Lime;
+            this.button16.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button16.Location = new System.Drawing.Point(180, 51);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(25, 40);
@@ -3071,6 +3192,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button15
             // 
             this.button15.BackColor = System.Drawing.Color.Lime;
+            this.button15.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button15.Location = new System.Drawing.Point(180, 5);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(25, 40);
@@ -3080,6 +3203,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button14
             // 
             this.button14.BackColor = System.Drawing.Color.Lime;
+            this.button14.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button14.Location = new System.Drawing.Point(324, 5);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(25, 40);
@@ -3089,6 +3214,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button13
             // 
             this.button13.BackColor = System.Drawing.Color.Lime;
+            this.button13.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button13.Location = new System.Drawing.Point(324, 51);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(25, 40);
@@ -3099,6 +3226,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button11
             // 
             this.button11.BackColor = System.Drawing.Color.Lime;
+            this.button11.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button11.Location = new System.Drawing.Point(51, 5);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(25, 40);
@@ -3108,6 +3237,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button10
             // 
             this.button10.BackColor = System.Drawing.Color.Lime;
+            this.button10.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button10.Location = new System.Drawing.Point(20, 51);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(25, 40);
@@ -3118,6 +3249,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button9
             // 
             this.button9.BackColor = System.Drawing.Color.Lime;
+            this.button9.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button9.Location = new System.Drawing.Point(51, 51);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(25, 40);
@@ -3127,6 +3260,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button8
             // 
             this.button8.BackColor = System.Drawing.Color.Lime;
+            this.button8.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Location = new System.Drawing.Point(82, 51);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(25, 40);
@@ -3136,6 +3271,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.Lime;
+            this.button7.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Location = new System.Drawing.Point(82, 5);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(25, 40);
@@ -3145,6 +3282,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.Lime;
+            this.button6.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Location = new System.Drawing.Point(118, 5);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(25, 40);
@@ -3154,6 +3293,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.Lime;
+            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Location = new System.Drawing.Point(118, 51);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(25, 40);
@@ -3164,6 +3305,8 @@ namespace Application_.Park_.Exercise_.Test_ {
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Lime;
+            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.Lime;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Location = new System.Drawing.Point(149, 5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(25, 40);
@@ -3172,6 +3315,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             // 
             // label88
             // 
+            this.label88.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label88.Location = new System.Drawing.Point(-1, 95);
             this.label88.Name = "label88";
             this.label88.Size = new System.Drawing.Size(136, 38);

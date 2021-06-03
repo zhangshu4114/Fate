@@ -13,5 +13,9 @@ namespace Application_.Park_.Exercise_.Test_ {
         public VisualLookup() {
             InitializeComponent();
         }
+
+        private void VisualLookup_Load(object sender, EventArgs e) {
+
+        }
     }
 }
