@@ -15,7 +15,9 @@ using System.Reflection;
 namespace Application_.Park_.Exercise_.Test_ {
     
     public partial class ClientForm : Form {
-
+        ///<summary>
+        /// -----------------
+        ///</summary>
         public ClientForm() {
             
             InitializeComponent();

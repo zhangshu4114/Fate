@@ -1580,6 +1580,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             this.button77.Size = new System.Drawing.Size(40, 80);
             this.button77.TabIndex = 58;
             this.button77.Text = "114";
+            this.button77.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button77.UseVisualStyleBackColor = false;
             // 
             // button78
@@ -3526,7 +3527,7 @@ namespace Application_.Park_.Exercise_.Test_ {
             this.button91.Size = new System.Drawing.Size(40, 80);
             this.button91.TabIndex = 69;
             this.button91.Text = "鲁BY382T     116";
-            this.button91.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button91.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button91.UseVisualStyleBackColor = false;
             // 
             // ClientForm
